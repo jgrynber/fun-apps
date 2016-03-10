@@ -30,6 +30,7 @@ INSTALLED_APPS += (
     'pure_pagination',
 
     'payment',
+    'payment_api',
 
     'forum_contributors',
     'selftest',
